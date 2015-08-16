@@ -1,0 +1,20 @@
+// 0-5 pelvis
+// 6-8 left hip
+// 9-11 right hip
+// 12,13 abdomen
+// 14 left knee
+// 15 right knee
+// 16 spine
+// 17,18 left ankle
+// 19,20 right ankle
+// 21,22 head
+// 23 left scapula
+// 24 right scapula
+// 25 left toe
+// 26 right toe
+// 27-29 left shoulder
+// 30-32 right shoulder
+// 33 left elbow
+// 34 right elbow
+// 35 left wrist
+// 36 right wrist
